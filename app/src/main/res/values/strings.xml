@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Profesor</string>
+    <string name="hola_john">Hola John!!!</string>
+    <string name="un_boton">Un botón</string>
+</resources>
